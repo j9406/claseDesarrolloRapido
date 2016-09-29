@@ -1,0 +1,16 @@
+{
+  "name": "jadeengine",
+  "version": "1.0.0",
+  "description": "USING A NEW ENGINE TEMPLATE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JAVIER",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "git": "^0.1.5",
+    "jade": "^1.11.0"
+  }
+}
